@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e39a48aa-8aa6-4873-cace-ee06ca41b01b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Affect: Neurobiological, Psychological and Sociocultural Counterparts of \"Feelings\"",
+  "course_description": "This course studies the relations of affect to cognition and behavior, feeling to thinking and acting, and values to beliefs and practices. These connections will be considered at the psychological level of organization and in terms of their neurobiological and sociocultural counterparts.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.68",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}

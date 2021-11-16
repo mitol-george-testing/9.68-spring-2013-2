@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: null
+file_location: /coursemedia/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/357d7f9b936a317cfd39c2742dea7021_MIT9_68S13_Lect3.pdf
+file_type: application/pdf
+resourcetype: Document
+title: 9.68 Lecture 3 Notes - MFA field trip
+uid: 357d7f9b-936a-317c-fd39-c2742dea7021
+---
